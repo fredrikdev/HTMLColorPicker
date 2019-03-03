@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\hcp.chm
+Contents file=help.hcc
+Default Font=Tahoma,8,0
+Default Window=wndDefault
+Default topic=welcome.html
+Display compile notes=No
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+
+[WINDOWS]
+wndDefault="HTML Color Picker","help.hcc",,,,,,,,0x2520,,0x100e,[10,10,610,460],0xb0000,,,,,,0
+
+
+[INFOTYPES]
+

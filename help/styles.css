@@ -1,0 +1,25 @@
+BODY,TD
+{
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Tahoma,Verdana,Arial
+}
+OL
+{
+    MARGIN-LEFT: 23px
+}
+UL
+{
+    MARGIN-LEFT: 15px
+}
+.title
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    FONT-FAMILY: Tahoma,Verdana,Arial
+}
+.subtitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Tahoma,Verdana,Arial
+}
